@@ -1,0 +1,21 @@
+{
+  "name": "com.reza.mamadtools",
+  "version": "1.0.0",
+  "displayName": "MamadTools",
+  "description": "My Example Project",
+  "unity": "2022.3",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [
+    "keyword1",
+    "keyword2",
+    "keyword3"
+  ],
+  "author": {
+    "name": "Reza Mahmoud",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
