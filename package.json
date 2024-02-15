@@ -19,11 +19,13 @@
     "url": "https://www.unity3d.com"
   }
   ,
-    "samples": {
+  {
+    "samples": [
+        {
             "displayName": "Mamad",
             "description": "Contains sample shaders for the High Definition render pipeline",
-            "path": "Samples~/SampleMamad"
+            "path": "Samples~/Mamad"
         }
-    
-  
+    ]
+}
 }
