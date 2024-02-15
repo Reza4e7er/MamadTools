@@ -19,7 +19,6 @@
     "url": "https://www.unity3d.com"
   }
   ,
-  {
     "samples": [
         {
             "displayName": "Mamad",
@@ -27,5 +26,4 @@
             "path": "Samples~/Mamad"
         }
     ]
-}
 }
