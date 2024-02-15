@@ -18,4 +18,13 @@
     "email": "unity@example.com",
     "url": "https://www.unity3d.com"
   }
+  {
+    "samples": [
+        {
+            "displayName": "Mamad",
+            "description": "Contains sample shaders for the High Definition render pipeline",
+            "path": "Samples~/Mamad"
+        }
+    ]
+  }
 }
